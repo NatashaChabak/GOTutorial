@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+const pi float64 = 3.1415
+
 func main() {
 	a := 16
 	b := 3
